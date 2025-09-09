@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student from The University of Hong Kong, [my supervisor is Stephen Chi-Yung Ng](https://www.physics.hku.hk/people/academic_staff/teaching_staff/scy_ng). My research interests include radio Astronomy, compact objects and data driven Astrophysics.
+I am a PhD student from The University of Hong Kong, my supervisor is [Prof. Stephen Chi-Yung Ng](https://www.physics.hku.hk/people/academic_staff/teaching_staff/scy_ng). My research interests include radio Astronomy, compact objects and data driven Astrophysics.
 
 my collaborator in Minnesota University is [Prof. Zhen Liu](https://cse.umn.edu/physics/zhen-liu), and in UIUC is [Dr. Wen Han Chiu](https://physics.illinois.edu/people/directory/profile/whchiu).
 
