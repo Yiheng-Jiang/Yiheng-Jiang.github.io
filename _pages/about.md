@@ -20,6 +20,7 @@ Research Assistant @ Zhejiang University, asvisor Xinwu Cao](https://person.zju.
 
 Education
 ======
+The University of Hong Kong, PhD (Sep.2025 - present)
 Zhejiang University, Undergraduate (Sep.2020 - Jun.2024)
 
 Publication
@@ -28,6 +29,6 @@ Publication
 
 What I am doing
 ======
-CDFS 7Ms data X-ray stacking analysis.
+Radio data of Pulsar Wind Nebula by [Australia Telescope Compact Array](https://www.atnf.csiro.au/) analysis
 
-Machine Learning on Jets, working with [Abay Zhakenuly](https://cse.umn.edu/physics/abay-zhakenuly).
+Machine Learning on Jet structure.
